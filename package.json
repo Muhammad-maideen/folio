@@ -1,0 +1,21 @@
+{
+  "name": "mohammed-maideen-portfolio",
+  "version": "1.0.0",
+  "description": "Mohammed Maideen - Frontend Developer Portfolio (React.js, JavaScript, Tailwind CSS, Bootstrap)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "mohammed-maideen",
+    "frontend-developer",
+    "portfolio",
+    "react",
+    "javascript",
+    "tailwind",
+    "bootstrap"
+  ],
+  "author": "Mohammed Maideen",
+  "license": "MIT"
+}
